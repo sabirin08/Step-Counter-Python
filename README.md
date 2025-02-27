@@ -1,2 +1,2 @@
 # Step-Counter-Python
-Developed a Python program that takes user input for the number of steps, converts it into miles, and handles exceptions for non-numeric and negative values.
+This program converts step count into miles (1 mile = 2000 steps), implements custom exception handling for negative values, and handles invalid (non-numeric) inputs.
